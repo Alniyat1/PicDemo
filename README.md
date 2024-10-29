@@ -1,1 +1,1 @@
-# PicGoDemo
+# PicDemo
